@@ -138,7 +138,7 @@ msgstr ""
 "Asegúrate de que el otro dispositivo es visible y está conectado a la misma "
 "red que este.\n"
 "Si es un dispositivo Android y no lo ves a pesar de haber seleccionado "
-"\"Todo el mundo\" en las opciones de visibilidad, intenta abriendo la página "
+"\"Todo el mundo\" en las opciones de visibilidad, inténtalo abriendo la página "
 "de <b>Quick Share</b> desde la app <b>Archivos de Google</b> y mantenla "
 "abierta.\n"
 "Además, asegúrate de que el Bluetooth está activado en ambos dispositivos, "
@@ -148,7 +148,7 @@ msgstr ""
 #. Translators: Replace "translator-credits" with your names, one name per line
 #: src/application.rs:144
 msgid "translator-credits"
-msgstr "Créditos de la traducción"
+msgstr "Axel Matías Sarraillé"
 
 #: src/application.rs:151
 msgid "Similar Projects"
